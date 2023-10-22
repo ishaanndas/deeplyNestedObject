@@ -1,0 +1,8 @@
+var mrBrightside = {
+  name: "Mr. Brightside",
+  age: 20,
+  intellect: "80/100",
+  attack: "90/100",
+  defence: "30/100",
+  health: "0/100"
+};
